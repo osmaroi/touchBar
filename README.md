@@ -3,9 +3,9 @@ Point of sale terminal for mobile clients
 
 ![TouchApp](https://github.com/osmaroi/touchBar/blob/master/logo.png?raw=true)
 
-*[Team Members](#team-members)
-#<a name="team-members"></a>Team Members
-*Oscar Masia Roig"<osmaroimail@gmail.com>
+* [Team Members](#team-members)
+# <a name="team-members"></a>Team Members
+* Oscar Masia Roig"<osmaroimail@gmail.com>
 
 Overview
 
