@@ -19,13 +19,17 @@ La aplicación permite que el cliente pueda, desde su mesa, realizar su pedido y
 
 ![Esquema touchBar](https://github.com/osmaroi/touchBar/blob/master/esquema%20touch%20bar.png?raw=true)
 
-Estructura de la aplicación
+##Estructura de la aplicación
 
 Touchbar está compuesta de 4 partes. 
 
 1. Touchbar Móvil: Que se instalará en los dispositivos móviles de los clientes. Esta aplicación permitirá escanear el código QR de la mesa para obtener la información necesaria para acceder a la aplicación Touchbar. El acceso se realizara mediante un navegador embebido en la aplicación móvil Android. 
+
 2. El Navegador Web: Instalado en los tabletas de los empleados que utilizaran para acceder a touchbar y realizar el seguimiento de los pedidos. 
-3. El Software utilizara una tecnología de Web dinámica. Este software que relaciona cliente/servidor estará basado en una combinación de lenguajes de programación y tecnologías como HTML, JAVASCRIPT, JAVA, SQL, AJAX. 4. La Base de Datos que contendrá los datos almacenados. El administrador y los empleados utilizaran el navegador Web de sus Tablet para el acceso a la aplicación, que dependiendo de su rol obtendrán una vista distinta.
+
+3. El Software utilizara una tecnología de Web dinámica. Este software que relaciona cliente/servidor estará basado en una combinación de lenguajes de programación y tecnologías como HTML, JAVASCRIPT, JAVA, SQL, AJAX. 
+
+4. La Base de Datos que contendrá los datos almacenados. El administrador y los empleados utilizaran el navegador Web de sus Tablet para el acceso a la aplicación, que dependiendo de su rol obtendrán una vista distinta.
 
 
 #<a name="history"></a>History
