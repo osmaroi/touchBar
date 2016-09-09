@@ -29,7 +29,10 @@ Touchbar está compuesta de 4 partes.
 
 3. El Software utilizara una tecnología de Web dinámica. Este software que relaciona cliente/servidor estará basado en una combinación de lenguajes de programación y tecnologías como HTML, JAVASCRIPT, JAVA, SQL, AJAX. 
 
-4. La Base de Datos que contendrá los datos almacenados. El administrador y los empleados utilizaran el navegador Web de sus Tablet para el acceso a la aplicación, que dependiendo de su rol obtendrán una vista distinta.
+4. La Base de Datos que contendrá los datos almacenados. 
+
+
+El administrador y los empleados utilizaran el navegador Web de sus Tablet para el acceso a la aplicación, que dependiendo de su rol obtendrán una vista distinta.
 
 
 #<a name="history"></a>History
@@ -40,7 +43,8 @@ Se puede acceder a traves de este [enlace](https://riunet.upv.es/handle/10251/17
 
 
 #<a name="team-members"></a>Team Members
-* Oscar Masia Roig"<osmaroimail@gmail.com>
+* Oscar Masia Roig <<osmaroimail@gmail.com>>
+
 
 
 
